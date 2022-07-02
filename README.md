@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @9zd - Sehrenity
+- 👀 I’m interested in C# and game modification/reverse engineering 
+- 🌱 I’m currently learning Unity modding
